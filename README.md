@@ -1,8 +1,10 @@
 # Hi, I'm Akash Dubey 👋
 
-### Cybersecurity & Forensics Student | Cybersecurity • AI • Digital Forensics
+### 🔐 Cybersecurity & Digital Forensics Student | Security Enthusiast | AI Explorer
 
-I'm a Computer Science student specializing in Cybersecurity & Forensics, interested in building practical security tools and exploring the intersection of cybersecurity and artificial intelligence.
+I'm a Computer Science student specializing in **Cybersecurity & Forensics**, interested in building practical security tools, exploring digital forensics, and applying AI to cybersecurity.
+
+I enjoy learning by building, experimenting in security labs, and turning cybersecurity concepts into practical projects.
 
 ---
 
@@ -11,63 +13,72 @@ I'm a Computer Science student specializing in Cybersecurity & Forensics, intere
 - 🎓 B.Tech Computer Science — Cybersecurity & Forensics
 - 🔐 Interested in Cybersecurity & Ethical Hacking
 - 🔎 Exploring Digital Forensics & Network Security
-- 🤖 Interested in AI-powered applications
+- 🤖 Interested in AI-powered cybersecurity applications
 - 🐍 Currently strengthening my Python skills
+- 🧪 Practicing with security labs and vulnerable environments
 - 🚀 Building practical cybersecurity projects
+- 📍 Dehradun, India
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### Programming
 Python • Java • C • JavaScript
 
 ### Cybersecurity
-Nmap • Wireshark • Burp Suite • Metasploit • SQLMap
+Nmap • Wireshark • Burp Suite • SQLMap • Metasploit • OWASP ZAP
+
+### Security & Forensics
+Kali Linux • Digital Forensics • Network Security • Web Security
 
 ### Tools & Platforms
-Linux • Kali Linux • Docker • Git • GitHub
-
-### AI & Development
-RAG • Knowledge Graphs • Streamlit • LLM Applications
+Git • GitHub • Docker • Linux • UTM
 
 ---
 
 ## 🚀 Featured Projects
 
-> 🚧 Projects are currently being built and documented.
+| Project | Description | Technologies |
+|---|---|---|
+| 🔐 Password Strength Analyzer | Analyze password security and strength | Python |
+| 🌐 Web Vulnerability Scanner | Basic authorized web security checks | Python |
+| 🔎 Digital Forensics Toolkit | Utilities for basic forensic analysis | Python |
+| 🛡️ Mini SOC Dashboard | Security event monitoring dashboard | Python, Streamlit |
+| 🤖 AI Cybersecurity Assistant | AI-powered cybersecurity analysis | Python, AI |
 
-### 🛡️ SentinelX
-AI-powered mini Security Operations Center for security monitoring and threat analysis.
-
-### 🤖 AI-Powered Personalized Learning System
-An AI-based platform using RAG and Knowledge Graphs to provide personalized academic assistance.
-
-### 🔎 Digital Forensics Toolkit
-A collection of practical tools and workflows for digital forensic investigation.
+> Projects are currently being developed and documented.
 
 ---
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
 - Python
-- Cybersecurity
+- Linux & Networking
+- Web Application Security
 - Digital Forensics
-- Artificial Intelligence
 - Security Automation
+- AI + Cybersecurity
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 2026 Goals
 
-I'm actively building, learning, and documenting my technical projects.
+- Build practical cybersecurity projects
+- Strengthen Python and problem-solving skills
+- Improve Linux and networking expertise
+- Develop digital forensics capabilities
+- Build AI-powered security tools
+- Contribute to open-source projects
+- Prepare for cybersecurity internships and placements
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/akash-dubey01/)
+💼 [LinkedIn](https://www.linkedin.com/in/akash-dubey01/)
+
+📍 Dehradun, India
 
 ---
 
